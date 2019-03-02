@@ -1,6 +1,8 @@
 .idea
 vendor
 consignment-cli/vendor
+consignment-cli/consignment-cli
 consignment-service/vendor
+consignment-service/consignment-service
 vessel-service/vendor
-
+vessel-service/vessel-service
